@@ -1,5 +1,5 @@
   
-name: nickel
+name: silver
 channels:
 dependencies:
   - python=3.7.*
