@@ -11,7 +11,7 @@ Follow the instructions given in the [installation file](installation.pdf)!
 **Using Binder:** _You may [launch Nickel in the cloud with binder](https://mybinder.org/v2/gl/qworld%2Fnickel/HEAD?urlpath=lab/tree/content.ipynb) but **please be aware of that**_ 
 - _each time a new session is created, which takes some time to be initiated, and all changes are lost when ending the session; and,_
 - _the session might be terminated if a new tab is not opened within 10 minutes._
-[![Binder](https://mybinder.org/badge_logo.svg](https://mybinder.org/v2/gl/qworld%2Fnickel/HEAD?urlpath=lab/tree/content.ipynb)]
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gl/qworld%2Fnickel/HEAD?urlpath=lab/tree/content.ipynb) 
 </small>
 
 ## Credits
